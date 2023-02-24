@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="add">+</string>
+    <string name="subtract">-</string>
+    <string name="divide">/</string>
+    <string name="multiply">*</string>
+    <string name="equals">=</string>
+    <string name="clear">C</string>
+    <string name="calculator">Calculator</string>
+    <string name="sum">+</string>
+    <string name="sub">-</string>
+    <string name="multi">*</string>
+    <string name="div">/</string>
+    <string name="zero">0.0</string>
+</resources>
