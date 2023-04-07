@@ -12,4 +12,9 @@
     <string name="multi">*</string>
     <string name="div">/</string>
     <string name="zero">0.0</string>
+    <string name="pageone">Back</string>
+    <string name="pagetwo">Result History</string>
+    <string name="PreviousResults">Previous Results</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
